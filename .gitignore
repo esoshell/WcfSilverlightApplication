@@ -3,3 +3,5 @@
 **/obj/debug
 
 **/Generated_Code
+.suo
+.vs
